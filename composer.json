@@ -1,0 +1,19 @@
+{
+  "name": "mhergerdt/graphics-editor",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Marcel Hergerdt",
+      "email": "marcel@marcel-hergerdt.de"
+    }
+  ],
+  "require": {
+    "php": "^5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
