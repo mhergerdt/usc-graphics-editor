@@ -16,6 +16,6 @@ Run the `main.php` file or if you use the docker container run `docker-compose r
 
 There is one optional argument to choose the desired exporter. Possible values are:
 
-* **caculations** (Default): To print the calculation results for each shape on the console output
+* **calculations** (Default): To print the calculation results for each shape on the console output
 * **png**: To export the image as png
 * **points**: To print the points for each shape on the console output
